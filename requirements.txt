@@ -1,0 +1,13 @@
+deepagents>=0.2.0
+langchain-openai
+langgraph
+langgraph-sdk
+langgraph-cli[inmem]
+colorama
+langgraph-checkpoint-aws>=0.1.0
+boto3>=1.39.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+langchain-mcp-adapters

@@ -1,0 +1,6 @@
+{
+  "graphs": {
+    "jira_orchestrator": "./orchestrator.py:make_graph"
+  },
+  "dependencies": ["."]
+}
