@@ -1,4 +1,4 @@
-def subtract(a: int, b: int) -> int:
+def subtract(a: int, b: int):
     """Return the difference of two integers."""
     return a - b
 
